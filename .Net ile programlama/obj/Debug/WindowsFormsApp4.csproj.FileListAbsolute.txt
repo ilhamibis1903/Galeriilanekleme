@@ -1,0 +1,24 @@
+C:\Users\ilham\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\ilham\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\ilham\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\ilham\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\ilham\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\ilham\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\ilham\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\ilham\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\ilham\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\ilham\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\ilham\Desktop\ali hoca vize\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\ilham\Desktop\ali hoca vize\bin\Debug\WindowsFormsApp4.exe
+C:\Users\ilham\Desktop\ali hoca vize\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\ilham\Desktop\ali hoca vize\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\ilham\Desktop\ali hoca vize\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\ilham\Desktop\ali hoca vize\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\ilham\Desktop\ali hoca vize\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\ilham\Desktop\ali hoca vize\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\ilham\Desktop\ali hoca vize\obj\Debug\WindowsFormsApp4.exe
+C:\Users\ilham\Desktop\ali hoca vize\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\ilham\Desktop\ali hoca vize\obj\Debug\WindowsFormsApp4.İlan_ekleme.resources
+C:\Users\ilham\Desktop\ali hoca vize\obj\Debug\WindowsFormsApp4.AdminGiriş.resources
+C:\Users\ilham\Desktop\ali hoca vize\obj\Debug\WindowsFormsApp4.KullanıcıGiriş.resources
+C:\Users\ilham\Desktop\ali hoca vize\obj\Debug\WindowsFormsApp4.Kullanıcıİlan.resources

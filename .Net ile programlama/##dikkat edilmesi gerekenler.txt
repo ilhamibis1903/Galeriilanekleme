@@ -1,0 +1,4 @@
+admin girişinde kullanıcı adı kısmına "admin " yazılmazsa girmez.
+kullanıcı girişinde kullanıcı adı kısmına "kullanıcı "yazılmazsa girilmez.
+DÜZENLE butonu fiyat değiştirmek için kullanılır.
+SİLME butonu marka değiştirmek için kullanılır.
